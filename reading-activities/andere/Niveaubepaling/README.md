@@ -1,1 +1,0 @@
-Deze leesactiviteit is gemaakt door Katleen Trio. Indien je fouten of verbeteringen opmerkt, gelieve dit melden op katleen.trio@campus-keerbergen.be

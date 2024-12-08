@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Dodona"
+    }
+  },
+  "labels": [
+    "Informatie"
+  ],
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "xuayEDmtzIuEPeXC3ThZybGri3qMnYb9rbuhF5czYjAyng8P8IZWGxiK5NmMZ3B4",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
