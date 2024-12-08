@@ -1,12 +1,12 @@
 {
   "description": {
     "names": {
-      "nl": "Klanten 2"
+      "nl": "Klanten 3"
     }
   },
   "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
   "internals": {
-    "token": "ApfTz-SZkCtccQpMZq2IMQEuqdVfFrDAzGXCiyc4YymJw8GEi8AZgKvCwsmss33G",
+    "token": "7JJ4INJ3etwGRp3TGYRGq3TIwH5Jqfvp7m-UcwjgB66K7HQUstSFQeJja_GJ3JWp",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "labels": [
