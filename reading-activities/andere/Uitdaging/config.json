@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Uitdaging"
+    }
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "b8Kb-RqncxzdXiU-AeHHVNqGu2-dcDZZQbMc54uC9I2UG4jGtjnzBPEw7e6xGpCN",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

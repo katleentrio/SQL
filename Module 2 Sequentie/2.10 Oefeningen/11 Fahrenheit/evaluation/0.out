@@ -1,0 +1,12 @@
+Geef de graden in celsius: 
+De waarde in fahrenheit is 77.18
+
+Geef de graden in celsius: 
+De waarde in fahrenheit is 93.74
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 1
+output block size: ends with
+comparison: exact match

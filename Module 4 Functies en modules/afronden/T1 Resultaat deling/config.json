@@ -1,0 +1,22 @@
+{
+  "description": {
+    "names": {
+      "nl": "Resultaat deling"
+    }
+  },
+  "labels": [
+    "afronden",
+    "Sequentie"
+  ],
+
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+
+  
+  "internals": {
+    "token": "-x4qpQEBFVKq4_W3w8kjGHvMdvEEEEi2k7fG2Q6BIPMN-ChC258UTUqIBgDAGTGs",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

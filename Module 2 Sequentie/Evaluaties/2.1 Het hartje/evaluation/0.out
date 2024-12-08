@@ -1,0 +1,17 @@
+  xxx   xxx  
+ xxxxx xxxxx 
+xxxxxxxxxxxxx
+xxxxxxxxxxxxx
+ xxxxxxxxxxx 
+  xxxxxxxxx  
+   xxxxxxx   
+    xxxxx    
+     xxx     
+      x      
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 10
+output block size: ends with
+comparison: exact match

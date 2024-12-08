@@ -1,0 +1,29 @@
+- tab: "Testen"
+  testcases:
+  - stdin: |
+      1
+      2
+      3
+      4
+      5
+      6
+      7
+      8
+      9
+      10
+    stdout: 'De som bedraagt 55.'
+  - stdin: |
+      5
+      10
+      6
+      11
+      7
+      12
+      8
+      13
+      9
+      14
+    stdout: 'De som bedraagt 95.'
+
+
+

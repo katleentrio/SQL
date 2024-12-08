@@ -1,0 +1,22 @@
+{
+  "description": {
+    "names": {
+      "nl": "Som van 10 cijfers"
+    }
+  },
+   "labels": [
+    "input",
+    "output",
+    "sequentie"
+  ],
+
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+
+  "internals": {
+    "token": "XeW2DSwbAGa3ihxmg5c4PHcbpKAcxsSSdn-INJtUamhKkD3AxcNkUYbwUJkV3AhC",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

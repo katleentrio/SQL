@@ -1,0 +1,8 @@
+Dit is Tina en zij woont heel graag in Keerbergen.
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 2
+output block size: 1
+comparison: exact match

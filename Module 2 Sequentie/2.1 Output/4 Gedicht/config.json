@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Gedicht"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Sequentie",
+    "output",
+    "Python"
+  ],
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "7i_W6ekiCVYmqjZnpwtyhsfCGuyjSfxZCiNNuyhsgHBckPuKfUIbFTnerg_yj9f4",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

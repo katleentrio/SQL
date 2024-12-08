@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Fahrenheit"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Sequentie",
+    "output",
+    "Python"
+  ],
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "TxY5Z6RKn497GANVGhSbqDEw25cxiYi6gPm8caxpjw3rt888rIgwazZAfYeYf6KM",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

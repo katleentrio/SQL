@@ -1,0 +1,22 @@
+{
+  "description": {
+    "names": {
+      "nl": "De Verhulstjes"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Sequentie",
+    "output",
+    "concatenatie",
+    "Python"
+  ],
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "UkjmUA3NSP4vQN_6xKrjwi39q-iqajV2azXpzjvRD-B7ab7ISArhRNaD3rYDpIPW",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

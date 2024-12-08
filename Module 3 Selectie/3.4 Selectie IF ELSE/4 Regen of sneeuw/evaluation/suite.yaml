@@ -1,0 +1,7 @@
+- tab: "Testen"
+  testcases:
+  - stdin: "sneeuw"
+    stdout: "Het sneeuwt vandaag. Neem handschoenen mee.\nEinde programma"
+  - stdin: "regen"
+    stdout: "Het regent vandaag. Neem je paraplu mee.\nEinde programma"
+

@@ -1,0 +1,22 @@
+{
+  "description": {
+    "names": {
+      "nl": "Groter dan 100"
+    }
+  },
+  "labels": [
+    "IF",
+    "Selectie"
+  ],
+
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "aJU3EcuvkXn3Psz7idD6cifEXs7MEsw2wE7a9EAz7M22RGdAk4mr8YEyGBqeCs8-",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

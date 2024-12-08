@@ -1,0 +1,10 @@
+print("""  xxx   xxx  
+ xxxxx xxxxx 
+xxxxxxxxxxxxx
+xxxxxxxxxxxxx
+ xxxxxxxxxxx 
+  xxxxxxxxx  
+   xxxxxxx   
+    xxxxx    
+     xxx     
+      x      """)

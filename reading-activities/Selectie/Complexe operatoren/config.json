@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "nl": "Complexe operatoren"
+    }
+  },
+  "labels": [
+    "If",
+    "Else",
+    "Elif",
+    "Complexe operatoren",
+    "Selectie"
+  ],
+  "internals": {
+    "token": "Airc7MsBP4MYBpVyvfn4qsyUSXC6VTbAasxeGZPKNr8_WG-ADT38IGDDsaRAwcWV",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

@@ -1,0 +1,12 @@
+- tab: "Testen"
+  testcases:
+  - stdin: "75.62\n2.3"
+    stdout: "Het resultaat is 32.878\nEinde programma"
+  - stdin: "25.0\n3.6"
+    stdout: "Het resultaat is 6.944\nEinde programma"
+  - stdin: "546\n3.5"
+    stdout: "Het resultaat is 156.0\nEinde programma"
+  - stdin: "5201\n2"
+    stdout: "Het resultaat is 2600.5\nEinde programma"
+  - stdin: "-12\n2.4"
+    stdout: "Het resultaat is -5.0\nEinde programma"

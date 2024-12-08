@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Leeftijdscategorie"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "IF",
+    "Selectie"
+  ],
+  "internals": {
+    "token": "PR53xmtkfcXne-aqJMIhtNe4m5x2Iwb7US6pEapkXpHYtAwmdH_yM4Ckku3tCZ_K",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

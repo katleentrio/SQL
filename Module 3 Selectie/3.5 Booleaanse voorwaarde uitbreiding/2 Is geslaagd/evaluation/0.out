@@ -1,0 +1,24 @@
+Ben je geslaagd? Antwoord met 1 of 0: 
+Proficiat!
+
+Ben je geslaagd? Antwoord met 1 of 0: 
+Dat is jammer. Beter herhalen de volgende keer!
+
+Ben je geslaagd? Antwoord met 1 of 0: 
+Proficiat!
+
+Ben je geslaagd? Antwoord met 1 of 0: 
+Proficiat!
+
+Ben je geslaagd? Antwoord met 1 of 0: 
+Dat is jammer. Beter herhalen de volgende keer!
+
+Ben je geslaagd? Antwoord met 1 of 0: 
+Proficiat!
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 1
+output block size: ends with
+comparison: exact match

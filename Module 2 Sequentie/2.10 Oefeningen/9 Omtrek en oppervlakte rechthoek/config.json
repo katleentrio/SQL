@@ -1,0 +1,25 @@
+{
+  "description": {
+    "names": {
+      "nl": "Omtrek en oppervlakte rechthoek"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Sequentie",
+    "output",
+    "input",
+    "concatenatie",
+    "typecasting",
+    "Robbe Wulgaert",
+    "Python"
+  ],
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "bcwNKCSnfkrRGDeqzMTkZm3QMQt2jqvNW7dI8K_BKHefW5je9D5EmqtrpjdFuD7T",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

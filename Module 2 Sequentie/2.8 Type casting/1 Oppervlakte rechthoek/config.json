@@ -1,0 +1,24 @@
+{
+  "description": {
+    "names": {
+      "nl": "Oppervlakte rechthoek"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Sequentie",
+    "output",
+    "input",
+    "typecasting",
+    "concatenatie",
+    "Python"
+  ],
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "rh3gu8mERehQy4tx8vKGa9UkUyPx-abP7ABS4YXUH2GB_NgHZCJziEQgAIbD4iHN",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

@@ -1,0 +1,24 @@
+Voer jouw naam in: 
+Voer jouw geboortejaar in: 
+Geef het huidig jaar in: 
+Hallo Jane, jij bent 20 en jij bent een volwassen persoon.
+Einde programma
+
+Voer jouw naam in: 
+Voer jouw geboortejaar in: 
+Geef het huidig jaar in: 
+Hallo John, jij bent 15 en jij bent een kind.
+Einde programma
+
+Voer jouw naam in: 
+Voer jouw geboortejaar in: 
+Geef het huidig jaar in: 
+Hallo Jill, jij bent 49 en jij bent een volwassen persoon.
+Einde programma
+-----------------------------------------
+tab name: Testen
+python input without prompt: false
+block count: multi
+input block size: 3
+output block size: ends with
+comparison: exact match

@@ -1,0 +1,26 @@
+Geef een eerste getal: 
+Geef een tweede getal: 
+Het product van 5 en 3 is 15
+
+Geef een eerste getal: 
+Geef een tweede getal: 
+Het product van 6 en 7 is 42
+
+Geef een eerste getal: 
+Geef een tweede getal: 
+Het product van 95 en 64 is 6080
+
+Geef een eerste getal: 
+Geef een tweede getal: 
+Het product van 436 en 20 is 8720
+
+Geef een eerste getal: 
+Geef een tweede getal: 
+Het product van 0 en 0 is 0
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 2
+output block size: ends with
+comparison: exact match

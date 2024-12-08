@@ -1,0 +1,23 @@
+{
+  "description": {
+    "names": {
+      "nl": "Wachtwoord 2.0"
+    }
+  },
+  "labels": [
+    "IF",
+    "Else","if/else",
+    "Selectie"
+  ],
+
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "hZwWu4qgYa-gY4GcpQsbwSbTgD9c5K4arHmQvBfEerh_yKiT7UTK_rIhqwUvydZD",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

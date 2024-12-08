@@ -1,0 +1,22 @@
+{
+  "description": {
+    "names": {
+      "nl": "Som van drie getallen"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Sequentie",
+    "output",
+    "variabele",
+    "Python"
+  ],
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "b7dIWU4hHebkIhkEZUP5PRJfzXJJsVtMCEec4XddvUz9JyBDjX_6XfP9ZpwgFgHS",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

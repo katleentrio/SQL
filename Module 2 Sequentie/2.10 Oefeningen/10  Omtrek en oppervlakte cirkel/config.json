@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Omtrek en oppervlakte cirkel"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Sequentie",
+    "output",
+    "Python"
+  ],
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "k8CvhYxDqgchaVKihHKAytT6fC2bDwMWtvz7XIvY8n4uhtIjbeMcRg2tNs-VmBXV",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

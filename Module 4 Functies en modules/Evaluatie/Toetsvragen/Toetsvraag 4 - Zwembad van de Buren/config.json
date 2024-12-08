@@ -1,0 +1,28 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Zwembad bij de buren",
+      "en": "Neighbour's swimming pool"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "functies",
+    "python",
+    "robbe wulgaert",
+    "modules",
+    "afronden",
+    "selectie"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "HmGqqsgmnCqr-89hpmsiqjzNFGFHdBXIVpxgjUjEEA6_uXypamvAcAVMd_hAd7yy",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

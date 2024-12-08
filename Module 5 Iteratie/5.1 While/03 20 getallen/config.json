@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "20 getallen"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Iteratie",
+    "While"
+  ],
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "6wYZ3YXnCJmfZ5djvXNIE3ZtMiezmHAthJkRddeWT7j3C-bGPkSsNd7EFuwvk9c3",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

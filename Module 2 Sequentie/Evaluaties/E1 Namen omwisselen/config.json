@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Namen omwisselen"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "input",
+    "output",
+    "Python"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "bcHIpH6cUbNhAgqhPt6f7d4RbZmjDQDbV6_jZp-wWUgmVakJnA83eWY_2xQ2fi5h",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

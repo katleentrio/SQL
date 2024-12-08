@@ -1,0 +1,11 @@
+Roses are red,
+Violets are blue,
+Python is fun,
+And so are you!
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 4
+output block size: ends with
+comparison: exact match

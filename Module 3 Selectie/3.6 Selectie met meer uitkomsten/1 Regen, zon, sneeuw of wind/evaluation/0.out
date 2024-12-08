@@ -1,0 +1,26 @@
+Welk weer is het vandaag? Je kan kiezen tussen regen, zon, sneeuw of wind. 
+De zon schijnt vandaag. Neem je zonnebril mee.
+Einde programma
+
+Welk weer is het vandaag? Je kan kiezen tussen regen, zon, sneeuw of wind. 
+Het regent vandaag. Neem je paraplu mee.
+Einde programma
+
+Welk weer is het vandaag? Je kan kiezen tussen regen, zon, sneeuw of wind. 
+Een wit landschap. Pak je handschoenen maar!
+Einde programma
+
+Welk weer is het vandaag? Je kan kiezen tussen regen, zon, sneeuw of wind. 
+Winderig weertje. Een windbreaker is voldoende.
+Einde programma
+
+Welk weer is het vandaag? Je kan kiezen tussen regen, zon, sneeuw of wind. 
+Geniet van je dag :-).
+Einde programma
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 1
+output block size: ends with
+comparison: exact match

@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Brandende kaars"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Python",
+    "input",
+    "output"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "R_nWTT83RA7tpeKgc5iBqC4pipayzGWpsHJRtk9HHYkcxfYS_UdYK3pHcuxc5S6J",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

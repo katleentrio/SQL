@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Elif"
+    }
+  },
+  "labels": [
+    "If",
+    "Else",
+    "Elif",
+    "Selectie"
+  ],
+  "internals": {
+    "token": "G6T8jAsa8PjCVve2dQz-WrnNcxKRw-UV5ka4Z__nxBdsFVHcx8T73i3STpn6Brz_",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

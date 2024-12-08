@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Eindwaarde 1"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Sequentie",
+    "Python"
+  ],
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "cK_GVCQ9xaZ5npyva-wMSEkHKaezq49J2Ce5IP39tu933Tvzwwwp3wHdUy-w6cdu",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

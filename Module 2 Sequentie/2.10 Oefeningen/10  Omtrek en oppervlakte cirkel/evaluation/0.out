@@ -1,0 +1,18 @@
+Geef de straat van je cirkel: 
+De omtrek bedraagt:  38.955716 cm
+De oppervlakte bedraagt:  120.76271960000001 cm2
+
+Geef de straat van je cirkel: 
+De omtrek bedraagt:  19.477858 cm
+De oppervlakte bedraagt:  30.190679900000003 cm2
+
+Geef de straat van je cirkel: 
+De omtrek bedraagt:  59.061892 cm
+De oppervlakte bedraagt:  277.59089240000003 cm2
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 1
+output block size: ends with
+comparison: exact match

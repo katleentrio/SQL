@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Niveaubepaling"
+    }
+  },
+  "labels": [
+    "Selectie"
+  ],
+  "internals": {
+    "token": "sTdDa9gMWZpyfiXdh7rbEh9GQpZgv6gFIvXItzPwDaf9NpVvVIqrt-5ca_rXAj6B",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
