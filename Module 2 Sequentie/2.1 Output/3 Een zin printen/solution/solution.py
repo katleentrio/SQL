@@ -1,2 +1,0 @@
-print("Ik leer programmeren!")
-
