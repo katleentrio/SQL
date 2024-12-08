@@ -13,7 +13,8 @@
     "select",
     "database",
     "where",
-    "meerdere tabellen"
+    "meerdere tabellen",
+    "order by"
   ],
   "type": "exercise"
 }
