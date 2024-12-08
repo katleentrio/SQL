@@ -6,13 +6,12 @@
   },
   "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
   "internals": {
-    "token": "4J55Qnq6bBUJdWHT_93jNAVQdcJS-3hmAkW7nV_pgRcp7ZcNpaGxAdmwMWHzFI_y",
+    "token": "hxGk52jRGy7xuTctA_m77fjrSI87TEImJDiG8XytriW8pjh7DgEf7GbiJAG3ZseW",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "labels": [
     "select",
     "database"
-    
   ],
   "type": "exercise"
 }
